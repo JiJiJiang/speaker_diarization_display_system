@@ -1,0 +1,1 @@
+This is a display system of speaker diarization for my graduation thesis.
